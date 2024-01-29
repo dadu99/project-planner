@@ -88,7 +88,8 @@ button:active {
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
   padding: 1rem;
-  background: white;
+  margin-top: 5px;
+  background: #ccc;
 }
 
 #active-projects {
